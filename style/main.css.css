@@ -1,7 +1,8 @@
 div  {
 
     display: inline-block;
-	margin-left: 5px;
+	margin: auto;
+	margin-left: 20px;
 	font-family: Georgia;
 	height: 100px;
 	width: 100px;
@@ -10,23 +11,23 @@ div  {
 
 
 .amarillo {
-
+display: block;
 background-color: yellow;
-height: 100px;
-width: 1000px;
+height: 90px;
+width: 190px;
 
 			}
 .rojo {
-
+display: block;
 background-color: red;
-height: 100px;
-width: 1000px;
+height: 90px;
+width: 190px;
 
 			}
 .pollito  {
-
+display: block;
 background-color: yellow;
-height: 100px;
-width: 1000px;
+height: 90px;
+width: 190px;
 
 			}	
