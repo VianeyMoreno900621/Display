@@ -11,21 +11,22 @@ div  {
 
 
 .amarillo {
-display: block;
+display: inline-block;
 background-color: yellow;
 height: 90px;
 width: 190px;
 
 			}
 .rojo {
-display: block;
+display: inline-block;
 background-color: red;
 height: 90px;
 width: 190px;
 
 			}
+
 .pollito  {
-display: block;
+display: inline-block;
 background-color: yellow;
 height: 90px;
 width: 190px;
