@@ -1,0 +1,32 @@
+div  {
+
+    display: inline-block;
+	margin-left: 5px;
+	font-family: Georgia;
+	height: 100px;
+	width: 100px;
+
+			}
+
+
+.amarillo {
+
+background-color: yellow;
+height: 100px;
+width: 1000px;
+
+			}
+.rojo {
+
+background-color: red;
+height: 100px;
+width: 1000px;
+
+			}
+.pollito  {
+
+background-color: yellow;
+height: 100px;
+width: 1000px;
+
+			}	
