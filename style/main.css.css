@@ -9,26 +9,28 @@ div  {
 
 			}
 
-
+p {
+ text-align: center;  
+}
 .amarillo {
 display: inline-block;
 background-color: yellow;
-height: 90px;
-width: 190px;
+height: 40px;
+width: 100px;
 
 			}
 .rojo {
 display: inline-block;
 background-color: red;
-height: 90px;
-width: 190px;
+height: 40px;
+width: 30px;
 
 			}
 
 .pollito  {
 display: inline-block;
 background-color: yellow;
-height: 90px;
-width: 190px;
+height: 40px;
+width: 170px;
 
 			}	
